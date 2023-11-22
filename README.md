@@ -3,6 +3,7 @@ cmake template project for vulkan C++ with GLFW, GLM, STB, TINYOBJLOADER and ImG
 
 ### Structure of the project :
 
+```txt
 |
 +-- assets (you need to create it)
 +-- cmake
@@ -19,6 +20,7 @@ cmake template project for vulkan C++ with GLFW, GLM, STB, TINYOBJLOADER and ImG
 | +-- main.cpp
 |
 +-- CMakeLists.txt
+```
 
 Each cmake sub-macro will fetch the corresponding git dependency and link it to the project.
 
