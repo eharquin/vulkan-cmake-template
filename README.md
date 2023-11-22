@@ -1,7 +1,7 @@
 # vulkan-cmake-template
 cmake template project for vulkan C++ with GLFW, GLM, STB, TINYOBJLOADER and ImGUI
 
-### Structure of the project :
+## Structure of the project
 
 ```txt
 |
@@ -25,14 +25,14 @@ cmake template project for vulkan C++ with GLFW, GLM, STB, TINYOBJLOADER and ImG
 Each cmake sub-macro will fetch the corresponding git dependency and link it to the project.
 
  
-### How to start
+## How to start
 
-#### Linux
+### Linux
 mkdir assets
 mkdir build
 cd build
 cmake ..
 
-#### Windows Visual Studio
+### Windows Visual Studio
 mkdir assets
 open project with VS
