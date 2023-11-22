@@ -28,11 +28,12 @@ Each cmake sub-macro will fetch the corresponding git dependency and link it to 
 ## How to start
 
 ### Linux
-mkdir assets
-mkdir build
-cd build
+
+mkdir assets  
+mkdir build  
+cd build  
 cmake ..
 
 ### Windows Visual Studio
-mkdir assets
+mkdir assets  
 open project with VS
