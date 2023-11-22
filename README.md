@@ -27,8 +27,15 @@ Each cmake sub-macro will fetch the corresponding git dependency and link it to 
  
 ## How to start
 
-### Linux
+### Requirements 
+vulkan
+cmake >= 3.11
+python >= 
+git
 
+
+
+### Linux
 mkdir assets  
 mkdir build  
 cd build  
