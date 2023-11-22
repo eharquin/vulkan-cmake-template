@@ -28,9 +28,8 @@ Each cmake sub-macro will fetch the corresponding git dependency and link it to 
 ## How to start
 
 ### Requirements 
-vulkan
-cmake >= 3.11
-python >= 
+vulkan  
+cmake >= 3.11  
 git
 
 
